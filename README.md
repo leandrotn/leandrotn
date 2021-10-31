@@ -15,6 +15,6 @@
   
 </div>
  
-  ![Snake animation](https://github.com/leandrotn/leandrotn/blob/main/.github/workflows/cobrinha.svg)
+  ![Snake animation](https://github.com/leandrotn/leandrotn/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
